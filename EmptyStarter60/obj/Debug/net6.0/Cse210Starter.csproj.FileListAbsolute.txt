@@ -1,0 +1,15 @@
+C:\Users\akalw\CSE 210\EmptyStarter60\obj\Debug\net6.0\Cse210Starter.csproj.AssemblyReference.cache
+C:\Users\akalw\CSE 210\EmptyStarter60\obj\Debug\net6.0\Cse210Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akalw\CSE 210\EmptyStarter60\obj\Debug\net6.0\Cse210Starter.AssemblyInfoInputs.cache
+C:\Users\akalw\CSE 210\EmptyStarter60\obj\Debug\net6.0\Cse210Starter.AssemblyInfo.cs
+C:\Users\akalw\CSE 210\EmptyStarter60\obj\Debug\net6.0\Cse210Starter.csproj.CoreCompileInputs.cache
+C:\Users\akalw\CSE 210\EmptyStarter60\bin\Debug\net6.0\Cse210Starter.exe
+C:\Users\akalw\CSE 210\EmptyStarter60\bin\Debug\net6.0\Cse210Starter.deps.json
+C:\Users\akalw\CSE 210\EmptyStarter60\bin\Debug\net6.0\Cse210Starter.runtimeconfig.json
+C:\Users\akalw\CSE 210\EmptyStarter60\bin\Debug\net6.0\Cse210Starter.dll
+C:\Users\akalw\CSE 210\EmptyStarter60\bin\Debug\net6.0\ref\Cse210Starter.dll
+C:\Users\akalw\CSE 210\EmptyStarter60\bin\Debug\net6.0\Cse210Starter.pdb
+C:\Users\akalw\CSE 210\EmptyStarter60\obj\Debug\net6.0\Cse210Starter.dll
+C:\Users\akalw\CSE 210\EmptyStarter60\obj\Debug\net6.0\ref\Cse210Starter.dll
+C:\Users\akalw\CSE 210\EmptyStarter60\obj\Debug\net6.0\Cse210Starter.pdb
+C:\Users\akalw\CSE 210\EmptyStarter60\obj\Debug\net6.0\Cse210Starter.genruntimeconfig.cache
